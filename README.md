@@ -1,4 +1,4 @@
-# ⎯⎯∈ ER1C_L0MB0 ∈⎯⎯
+# ⎯⎯∈ ER1C_LOMBO ∈⎯⎯
 ### **FULL-STACK SOFTWARE ENGINEER** | **PRODUCT-MINDED HACKER**
 
 <p align="center">
@@ -12,34 +12,76 @@
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
   
 </div>
 
 ## ⎯⎯∈ SYSTEM OVERVIEW ∈⎯⎯
 
+### 🖥️ **Terminal View**
 ```bash
-┌──(ericlombo@github)-[~/portfolio]
-├─📁 SKILLSET
-│  ├─ Frontend: React.js, Next.js, TypeScript, TailwindCSS
-│  ├─ Mobile: React Native, Flutter (Dart)
-│  ├─ Backend: Node.js, Express, Supabase, Spring Boot
-│  ├─ Database: PostgreSQL, MongoDB, Redis
-│  └─ Cloud: AWS, Docker, Vercel, Firebase
+user@github:~$ whoami
+ericlombo
+
+user@github:~$ pwd
+/home/ericlombo/portfolio
+
+user@github:~$ tree -L 2
+.
+├── 📁 SKILLSET
+│   ├── 🎨 Frontend: React.js, Next.js, TypeScript, TailwindCSS
+│   ├── 📱 Mobile: React Native, Flutter (Dart)
+│   ├── ⚙️ Backend: Node.js, Express, Supabase, Spring Boot
+│   ├── 🗄️ Database: PostgreSQL, MongoDB, Redis
+│   └── ☁️ Cloud: AWS, Docker, Vercel, Firebase
 │
-├─📁 ACTIVE_PROJECTS
-│  ├─ 🔐 TrustRail (Escrow Platform for Social Commerce)
-│  ├─ 🏠 Get A Keja (Real Estate PWA)
-│  ├─ 📱 MyStory (Social Wellness App)
-│  └─ 💅 House of Beauty (Service Marketplace)
+├── 📁 ACTIVE_PROJECTS
+│   ├── 🔐 TrustRail (Escrow Platform for Social Commerce)
+│   ├── 🏠 Get A Keja (Real Estate PWA)
+│   ├── 📱 MyStory (Social Wellness App)
+│   └── 💅 House of Beauty (Service Marketplace)
 │
-├─📁 CURRENT_STATUS
-│  └─ ✅ SYSTEMS_OPERATIONAL
+├── 📁 CURRENT_STATUS
+│   └─ ✅ SYSTEMS_OPERATIONAL
 │
-└─📁 CONNECT
-   ├─ 📧 ericlombo1999@gmail.com
-   ├─ 📱 +254 715 660 909
-   ├─ 🔗 linkedin.com/in/ericlombo
-   └─ 🌐 Nairobi, Kenya
+└── 📁 CONNECT
+    ├─ 📧 ericlombo1999@gmail.com
+    ├─ 📱 +254 715 660 909
+    ├─ 🔗 linkedin.com/in/ericlombo
+    └─ 🌐 Nairobi, Kenya
+⎯⎯∈ TECH STACK BADGES ∈⎯⎯
+Frontend & Mobile
+<div align="center">
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
+https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white
+
+</div>
+Backend & Databases
+<div align="center">
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white
+https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
+https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
+
+</div>
+Cloud & DevOps
+<div align="center">
+https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
+https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
+https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white
+
+</div>
 ⎯⎯∈ ACTIVE DEPLOYMENTS ∈⎯⎯
 <table> <tr> <td width="50%">
 🔐 TRUSTRAIL
@@ -78,111 +120,26 @@ STACK: Next.js • TypeScript • Stripe
       • TailwindCSS • Supabase
 End-to-end booking engine and discovery flow for beauty services with provider-centric UI design.
 
-</td> </tr> </table>
-⎯⎯∈ SYSTEM METRICS ∈⎯⎯
-python
-class EngineerMetrics:
-    def __init__(self):
-        self.projects_shipped = "10+"
-        self.performance_improvement = "↑ 40% Lighthouse Score"
-        self.support_reduction = "↓ 60% Login Tickets"
-        self.uptime = "99.9%"
-        self.deployment_speed = "↑ 15% Ahead of Schedule"
-    
-    def display_metrics(self):
-        metrics = f"""
-        ╔══════════════════════════════════════╗
-        ║         SYSTEM PERFORMANCE           ║
-        ╠══════════════════════════════════════╣
-        ║ 📦 Projects Shipped: {self.projects_shipped:>15} ║
-        ║ ⚡ Performance:     {self.performance_improvement:>15} ║
-        ║ 🔧 Support Tickets: {self.support_reduction:>15} ║
-        ║ 🟢 Uptime:         {self.uptime:>15} ║
-        ║ 🚀 Delivery Speed: {self.deployment_speed:>15} ║
-        ╚══════════════════════════════════════╝
-        """
-        return metrics
-⎯⎯∈ TECHNOLOGY MATRIX ∈⎯⎯
-javascript
-const techStack = {
-  frontend: {
-    primary: ["Next.js", "TypeScript", "TailwindCSS"],
-    ui: ["shadcn/ui", "Framer Motion"],
-    mobile: ["React Native", "Flutter (Dart)"]
-  },
-  backend: {
-    runtime: ["Node.js", "Java (Spring Boot)"],
-    serverless: ["Supabase Edge Functions"],
-    auth: ["Supabase Auth", "JWT", "Clerk"]
-  },
-  infrastructure: {
-    databases: ["PostgreSQL", "MongoDB", "Redis"],
-    cloud: ["AWS", "Vercel", "Firebase"],
-    devops: ["Docker", "GitHub Actions CI/CD"]
-  },
-  integrations: {
-    payments: ["Stripe", "Paystack"],
-    communications: ["Resend (Email)"],
-    analytics: ["Google Analytics", "Sentry"]
-  }
-};
-⎯⎯∈ GITHUB ACTIVITY ∈⎯⎯
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=ericlombo&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00&hide_border=false
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=ericlombo&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_color=00ff00&hide_border=false
-
-https://streak-stats.demolab.com?user=ericlombo&theme=dark&background=0d1117&border=00ff00&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00
-
-</div>
-⎯⎯∈ SECURITY PROTOCOLS ∈⎯⎯
-yaml
-security_implementation:
-  authentication:
-    - "JWT with secure rotation"
-    - "Supabase Auth with Row Level Security"
-    - "Clerk for enterprise-grade auth"
-  
-  data_protection:
-    - "Encryption at rest & in transit"
-    - "Row Level Security (RLS) policies"
-    - "Secure payment processing"
-  
-  compliance:
-    - "OWASP Top 10 awareness"
-    - "GDPR-ready architectures"
-    - "Secure SDLC implementation"
-  
-  monitoring:
-    - "Sentry for error tracking"
-    - "Real-time security alerts"
-    - "Automated vulnerability scanning"
-⎯⎯∈ CONTACT PROTOCOL ∈⎯⎯
+</td> </tr> </table><div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ericlombo&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00&hide_border=false" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericlombo&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_color=00ff00&hide_border=false" /> </div>
+⎯⎯∈ CONTACT ∈⎯⎯
 bash
-# INITIATE CONNECTION SEQUENCE
-$ connect --target ericlombo --protocol professional
+# INITIATE CONNECTION
+$ ./connect --protocol secure --user ericlombo
 
-⠋ Establishing secure connection...
-⠙ Handshake successful!
-⠹ Authentication verified!
-⠸ Connection established!
+🔐 Establishing encrypted channel...
+✅ Authentication: Verified
+🔗 Connection: Established
+📡 Status: Ready for transmission
 
-✅ Connection Parameters:
-   - Mode: Professional Collaboration
-   - Encryption: End-to-End
-   - Status: Ready for Secure Transmission
-
-# Available Communication Channels:
-$ ./contact --method email --address "ericlombo1999@gmail.com"
-$ ./contact --method linkedin --profile "linkedin.com/in/ericlombo"
-$ ./contact --method call --number "+254715660909"
+$ ./contact --email ericlombo1999@gmail.com
+$ ./contact --linkedin linkedin.com/in/ericlombo
+$ ./contact --phone +254715660909
 <div align="center">
 "Architecting trust layers between users and technology"
 
-https://img.shields.io/badge/%25F0%259F%2592%25BB-CODE_WITH_PURPOSE-00FF00?style=for-the-badge
-https://img.shields.io/badge/%25F0%259F%2593%258A-PRODUCT_MINDSET-00FF00?style=for-the-badge
-https://img.shields.io/badge/%25E2%259D%258C-SECURITY_FIRST-00FF00?style=for-the-badge
-
-Last System Update: $(date)
+<br/>
+https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F-HACKER_MINDSET-00FF00?style=for-the-badge
+https://img.shields.io/badge/%F0%9F%9A%80-PRODUCT_FOCUS-00FF00?style=for-the-badge
+https://img.shields.io/badge/%F0%9F%94%92-SECURITY_FIRST-00FF00?style=for-the-badge
 
 </div> ```
