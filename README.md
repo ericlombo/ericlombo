@@ -1,14 +1,23 @@
-# <span style="color: #00ff00">⎯⎯∈</span> **ER1C_L0MB0** <span style="color: #00ff00">∈⎯⎯</span>
+# ⎯⎯∈ ER1C_L0MB0 ∈⎯⎯
 ### **FULL-STACK SOFTWARE ENGINEER** | **PRODUCT-MINDED HACKER**
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%92%BB+PRODUCTION-GRADE+SYSTEMS;%F0%9F%9A%80+FROM+FIGMA+TO+CLOUD;%E2%9C%85+SECURITY-FIRST+DEVELOPMENT;%F0%9F%93%88+SCALABLE+ARCHITECTURES" alt="Typing SVG" /> </p><div align="center">
-https://img.shields.io/badge/TERMINAL-%252300FF00?style=for-the-badge&logo=windowsterminal&logoColor=black
-https://img.shields.io/badge/Next.js-%2523000000?style=for-the-badge&logo=next.js&logoColor=white
-https://img.shields.io/badge/TypeScript-%25233178C6?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/Supabase-%25233ECF8E?style=for-the-badge&logo=supabase&logoColor=white
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%92%BB+PRODUCTION-GRADE+SYSTEMS;%F0%9F%9A%80+FROM+FIGMA+TO+CLOUD;%E2%9C%85+SECURITY-FIRST+DEVELOPMENT;%F0%9F%93%88+SCALABLE+ARCHITECTURES" alt="Typing SVG" />
+</p>
+
+<div align="center">
+  
+  ![Terminal](https://img.shields.io/badge/TERMINAL-00FF00?style=for-the-badge&logo=windowsterminal&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  
 </div>
-<span style="color: #00ff00">⎯⎯∈</span> SYSTEM OVERVIEW <span style="color: #00ff00">∈⎯⎯</span>
-bash
+
+## ⎯⎯∈ SYSTEM OVERVIEW ∈⎯⎯
+
+```bash
 ┌──(ericlombo@github)-[~/portfolio]
 ├─📁 SKILLSET
 │  ├─ Frontend: React.js, Next.js, TypeScript, TailwindCSS
@@ -31,7 +40,7 @@ bash
    ├─ 📱 +254 715 660 909
    ├─ 🔗 linkedin.com/in/ericlombo
    └─ 🌐 Nairobi, Kenya
-<span style="color: #00ff00">⎯⎯∈</span> ACTIVE DEPLOYMENTS <span style="color: #00ff00">∈⎯⎯</span>
+⎯⎯∈ ACTIVE DEPLOYMENTS ∈⎯⎯
 <table> <tr> <td width="50%">
 🔐 TRUSTRAIL
 Escrow Platform for Social Commerce
@@ -70,7 +79,7 @@ STACK: Next.js • TypeScript • Stripe
 End-to-end booking engine and discovery flow for beauty services with provider-centric UI design.
 
 </td> </tr> </table>
-<span style="color: #00ff00">⎯⎯∈</span> SYSTEM METRICS <span style="color: #00ff00">∈⎯⎯</span>
+⎯⎯∈ SYSTEM METRICS ∈⎯⎯
 python
 class EngineerMetrics:
     def __init__(self):
@@ -93,7 +102,7 @@ class EngineerMetrics:
         ╚══════════════════════════════════════╝
         """
         return metrics
-<span style="color: #00ff00">⎯⎯∈</span> TECHNOLOGY MATRIX <span style="color: #00ff00">∈⎯⎯</span>
+⎯⎯∈ TECHNOLOGY MATRIX ∈⎯⎯
 javascript
 const techStack = {
   frontend: {
@@ -117,17 +126,16 @@ const techStack = {
     analytics: ["Google Analytics", "Sentry"]
   }
 };
-<span style="color: #00ff00">⎯⎯∈</span> PROFESSIONAL TIMELINE <span style="color: #00ff00">∈⎯⎯</span>
-<span style="color: #00ff00">⎯⎯∈</span> GITHUB ACTIVITY <span style="color: #00ff00">∈⎯⎯</span>
+⎯⎯∈ GITHUB ACTIVITY ∈⎯⎯
 <div align="center">
 https://github-readme-stats.vercel.app/api?username=ericlombo&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00&hide_border=false
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=ericlombo&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_color=00ff00&hide_border=false
 
-https://github-readme-streak-stats.herokuapp.com/?user=ericlombo&theme=dark&background=0d1117&border=00ff00&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00
+https://streak-stats.demolab.com?user=ericlombo&theme=dark&background=0d1117&border=00ff00&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00
 
 </div>
-<span style="color: #00ff00">⎯⎯∈</span> SECURITY PROTOCOLS <span style="color: #00ff00">∈⎯⎯</span>
+⎯⎯∈ SECURITY PROTOCOLS ∈⎯⎯
 yaml
 security_implementation:
   authentication:
@@ -149,7 +157,7 @@ security_implementation:
     - "Sentry for error tracking"
     - "Real-time security alerts"
     - "Automated vulnerability scanning"
-<span style="color: #00ff00">⎯⎯∈</span> CONTACT PROTOCOL <span style="color: #00ff00">∈⎯⎯</span>
+⎯⎯∈ CONTACT PROTOCOL ∈⎯⎯
 bash
 # INITIATE CONNECTION SEQUENCE
 $ connect --target ericlombo --protocol professional
@@ -171,9 +179,9 @@ $ ./contact --method call --number "+254715660909"
 <div align="center">
 "Architecting trust layers between users and technology"
 
-https://img.shields.io/badge/%25F0%259F%2592%25BB-CODE_WITH_PURPOSE-%252300FF00?style=for-the-badge
-https://img.shields.io/badge/%25F0%259F%2593%258A-PRODUCT_MINDSET-%252300FF00?style=for-the-badge
-https://img.shields.io/badge/%25E2%259D%258C-SECURITY_FIRST-%252300FF00?style=for-the-badge
+https://img.shields.io/badge/%25F0%259F%2592%25BB-CODE_WITH_PURPOSE-00FF00?style=for-the-badge
+https://img.shields.io/badge/%25F0%259F%2593%258A-PRODUCT_MINDSET-00FF00?style=for-the-badge
+https://img.shields.io/badge/%25E2%259D%258C-SECURITY_FIRST-00FF00?style=for-the-badge
 
 Last System Update: $(date)
 
